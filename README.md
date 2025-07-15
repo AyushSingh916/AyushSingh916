@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AyushSingh916
 - 👀 I’m interested in Web/Ai
-- 🌱 I’m currently learning WebRTC
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ayushsingh916924@gmail.com
 - 😄 Pronouns: He/Him

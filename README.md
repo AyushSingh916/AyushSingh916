@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ayush Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+AI+Enthusiast;Always+learning+new+technologies;Open+to+collaborate+on+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+AI+Engineer;Always+learning+new+technologies;Open+to+collaborate+on+projects" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

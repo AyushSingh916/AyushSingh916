@@ -118,8 +118,8 @@
 
 <div align="center">
 
-[![Oracle Cloud Infrastructure](https://img.shields.io/badge/-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://your-cert-link.com)
-[![Oracle AI Foundations](https://img.shields.io/badge/-OCI%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://your-cert-link.com)
+[![Oracle Cloud Infrastructure](https://img.shields.io/badge/-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)]([https://your-cert-link.com](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DFCCA6D94FDADDA80156F9CD87E171EAD4C77071C91CFF46A42710BA8235BCD1))
+[![Oracle AI Foundations](https://img.shields.io/badge/-OCI%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)]([https://your-cert-link.com](https://catalog-education.oracle.com/ords/certview/sharebadge?id=775705F7AEBF120115268850B490F4FDBBEA57159DEA6EF5A8D5ABFD07F2E6B1))
 
 </div>
 
@@ -152,9 +152,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushsingh916)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ayushsingh916)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushsingh916.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ayushsingh916](https://www.linkedin.com/in/ayush-singh-357b32257/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/ayushsingh916](https://leetcode.com/u/Ayush_Singh012/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingh916924@gmail.com)
 
 </div>

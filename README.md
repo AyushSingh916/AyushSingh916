@@ -77,7 +77,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 [ProjectPro](https://github.com/AyushSingh916/ProjectPro) - Full-Stack Project Management Platform
+### 🎯 [ProjectPro](https://project-pro-dusky.vercel.app/) - Full-Stack Project Management Platform
 <div align="left">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -90,7 +90,7 @@
 - 🔐 Integrated **OTP-based authentication** using NextAuth with SMTP
 - 🌐 Applied **Server-Side Rendering (SSR)** for enhanced SEO performance
 
-### 🤖 [DeepResearch Assistant](https://your-demo-link.com) - RAG-Based AI Assistant
+### 🤖 [DeepResearch Assistant](https://drive.google.com/file/d/1px2gqbbDUrIUn_tRgeZd7JE0Yl_M2U0V/view) - RAG-Based AI Assistant
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white">
@@ -102,7 +102,7 @@
 - 🐳 **Dockerized and deployed** via Amazon ECR and AWS ECS using custom cluster and service
 - 🌐 Exposed service publicly for **real-time user interaction** through scalable pipeline
 
-### 🖼️ [Image Upscaler/Restorer](https://your-upscaler-link.com) - AI-Powered Image Enhancement
+### 🖼️ [Image Upscaler/Restorer](https://upscaler-kappa.vercel.app/) - AI-Powered Image Enhancement
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
